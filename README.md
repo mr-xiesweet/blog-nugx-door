@@ -1,1 +1,1 @@
-# sob-blog-nugx-door
+# blog-nugx-door
